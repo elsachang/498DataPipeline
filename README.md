@@ -36,3 +36,12 @@ Next steps
 In your terminal, type docker-compose up -d
 After that you build the image by typing
 docker-compose up -d --build
+
+To check whether your Airflow is installed correctly, you may go to - 
+http://localhost:8080/
+From there you should see your Airflow is live.
+
+Next thing we need to do is setting up GCP.
+
+<img width="1327" alt="Screen Shot 2021-06-02 at 10 04 01 PM" src="https://user-images.githubusercontent.com/181012/120722235-4c507300-c484-11eb-8833-c78f8979c7fa.png">
+
