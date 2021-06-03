@@ -50,7 +50,15 @@ After that we need to start writing the DAG flow and dependency.
 ![airflow-example-dag](https://user-images.githubusercontent.com/181012/120722509-ae10dd00-c484-11eb-9f7c-8491e56850aa.png)
 
 
-How do you schedule when the data is pulled?
+How do you schedule when the data is pulled? The whole purpose of writing DAG is to get it under control.
+DAGs are usually written in Python for configuration and specified the DAG structure as code.
+
+1. Import modules
+2. Default Arguments
+3. Instantiate a DAG
+4. layout Tasks
+5. Setup dependencies
+
 
 ![Screen Shot 2021-05-15 at 8 26 47 PM](https://user-images.githubusercontent.com/181012/120722788-44450300-c485-11eb-87d9-a832b6543032.png)
 
