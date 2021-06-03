@@ -43,5 +43,10 @@ From there you should see your Airflow is live.
 
 Next thing we need to do is setting up GCP.
 
-<img width="1327" alt="Screen Shot 2021-06-02 at 10 04 01 PM" src="https://user-images.githubusercontent.com/181012/120722235-4c507300-c484-11eb-8833-c78f8979c7fa.png">
+<img width="1327" alt="Screen Shot 2021-06-02 at 10 04 01 PM" src="https://user-images.githubusercontent.com/181012/120722430-9174a500-c484-11eb-98a1-1dd200424024.png">
+
+After that we need to start writing the DAG flow and dependency.
+
+![airflow-example-dag](https://user-images.githubusercontent.com/181012/120722509-ae10dd00-c484-11eb-9f7c-8491e56850aa.png)
+
 
