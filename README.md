@@ -50,3 +50,7 @@ After that we need to start writing the DAG flow and dependency.
 ![airflow-example-dag](https://user-images.githubusercontent.com/181012/120722509-ae10dd00-c484-11eb-9f7c-8491e56850aa.png)
 
 
+How do you schedule when the data is pulled?
+
+![Screen Shot 2021-05-15 at 8 26 47 PM](https://user-images.githubusercontent.com/181012/120722788-44450300-c485-11eb-87d9-a832b6543032.png)
+
