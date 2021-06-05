@@ -31,6 +31,8 @@ To Start, you will need to install the necessary tools, such as -
 - Docker Compose
 - Python Package Index
 
+Installing Airflow -
+```$ pip install apache-airflow```
 Next steps
 
 In your terminal, type docker-compose up -d
