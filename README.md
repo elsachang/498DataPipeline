@@ -47,7 +47,7 @@ Next thing we need to do is setting up GCP.
 
 After that we need to start writing the DAG flow and dependency. 
 What is DAG? Directed Acyclic Graph – is a collection of all the tasks you want to run, organized in a way that reflects their relationships and dependencies.
-
+A DAG is defined in a Python script, which represents the DAGs structure
 ![airflow-example-dag](https://user-images.githubusercontent.com/181012/120722509-ae10dd00-c484-11eb-9f7c-8491e56850aa.png)
 
 
