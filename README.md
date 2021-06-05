@@ -33,6 +33,7 @@ To Start, you will need to install the necessary tools, such as -
 
 Installing Airflow -
 ```$ pip install apache-airflow```
+
 Next steps
 
 In your terminal, type docker-compose up -d
@@ -64,4 +65,9 @@ DAGs are usually written in Python for configuration and specified the DAG struc
 
 
 ![Screen Shot 2021-05-15 at 8 26 47 PM](https://user-images.githubusercontent.com/181012/120722788-44450300-c485-11eb-87d9-a832b6543032.png)
+
+Reference: 
+https://github.com/apache/airflow/tree/main/airflow/operators
+https://airflow.apache.org/docs/apache-airflow/stable/tutorial.html
+https://github.com/tuanavu/airflow-tutorial
 
