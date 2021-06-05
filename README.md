@@ -66,8 +66,14 @@ DAGs are usually written in Python for configuration and specified the DAG struc
 
 ![Screen Shot 2021-05-15 at 8 26 47 PM](https://user-images.githubusercontent.com/181012/120722788-44450300-c485-11eb-87d9-a832b6543032.png)
 
+
+In addition, the code samples in the folder could apply to pulling data from cloud services or git repo. I had a bit of problem before publish a number of datasets in GCP so I decided to create a git repo version to make this work.
+
 Reference: 
+
 https://github.com/apache/airflow/tree/main/airflow/operators
+
 https://airflow.apache.org/docs/apache-airflow/stable/tutorial.html
+
 https://github.com/tuanavu/airflow-tutorial
 
